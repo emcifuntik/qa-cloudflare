@@ -1,0 +1,11 @@
+{
+	"name": "Cloudflare Override",
+	"description": "Override IPs of users with their real IPs",
+	"version": "1.0.0",
+	"date": "2019-09-24",
+	"author": "alt:V Multiplayer",
+	"author_uri": "http://altv.mp",
+	"license": "MIT",
+	"min_q2a": "1.5",
+	"load_order": "after_db_init"
+}
